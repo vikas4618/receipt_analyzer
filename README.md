@@ -1,6 +1,7 @@
 🧾 Receipt OCR Mini App
 This is a simple full-stack application to upload receipt images, extract text using OCR (Tesseract), and analyze the data using search, sort, and aggregation functions.
 
+
 🏗️ Features
 Upload receipt images (JPG, PNG, JPEG)
 
@@ -13,6 +14,7 @@ Perform search (keyword, pattern), sort, and aggregate functions
 FastAPI backend + Streamlit frontend
 
 SQLite for lightweight storage
+
 
 🧰 Requirements
 Install dependencies in a virtual environment (recommended):
